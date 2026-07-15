@@ -20,6 +20,18 @@ $ whoami
 - **GPU Mining** — Stealth ops across Modal, SaladCloud, FPT, Vast.ai. PRL, BTX, altcoins.
 - **Crypto Degen** — Airdrops, retrodrops, EVM chains, on-chain alpha.
 
+### 📦 Projects
+
+| Repo | Deskripsi |
+|------|-----------|
+| [latency-hunter](https://github.com/keywell934/latency-hunter) | KOL Alpha Tracker — detect CA + keywords, 60s poll, Telegram alert |
+| [solana-degen-bot](https://github.com/keywell934/solana-degen-bot) | Degen trader engine for Solana memecoins |
+| [solana-mint-scanner](https://github.com/keywell934/solana-mint-scanner) | 6 mint scripts for Solana NFT sniping |
+| [pearl-miner-cuda](https://github.com/keywell934/pearl-miner-cuda) | Pearl Network CUDA miner — Docker + auto-entry |
+| [hermes-agent-setup](https://github.com/keywell934/hermes-agent-setup) | SOUL.md + AGENTS.md + scripts — autonomous AI agent bootstrap |
+| [install-9router](https://github.com/keywell934/install-9router) | 9Router CLI installer — edge compute routing |
+| [pearl-miner-image](https://github.com/keywell934/pearl-miner-image) | Pearl miner base image — deploy-ready |
+
 ### 🛠️ Stack
 
 `SOLIDITY` `PYTHON` `RUST` `HERMES` `OLLAMA` `LANGCHAIN` `DOCKER` `LINUX` `NVIDIA CUDA` `SOLANA` `EVM`
